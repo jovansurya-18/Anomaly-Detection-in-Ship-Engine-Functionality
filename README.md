@@ -119,8 +119,8 @@ Potential extensions to this project include:
 anomaly-detection-ship-engine/
 │
 ├── README.md
-├── Surya_Jovan_CAM_C101_W5_Mini-project.ipynb
-└── report.pdf
+├── anomaly_detection_ship_engine_analysis.ipynb
+└── anomaly_detection_ship_engine_report.pdf
 ```
 
 ## Project Files
